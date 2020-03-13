@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="image_width">120dp</dimen>
+    <dimen name="adapter_size">300dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="margin_card">5dp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="desc_text_size">15sp</dimen>
+    <dimen name="width_0">0sp</dimen>
+</resources>
